@@ -1,0 +1,4 @@
+F:\Учеба\Магистратура\Специальные разделы программирования\К зачету\3massiv\ConsoleApplication1\Debug\ConsoleApplication1.exe
+F:\Учеба\Магистратура\Специальные разделы программирования\К зачету\3massiv\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+F:\Учеба\Магистратура\Специальные разделы программирования\К зачету\22massiv\ConsoleApplication1\Debug\ConsoleApplication1.exe
+F:\Учеба\Магистратура\Специальные разделы программирования\К зачету\22massiv\ConsoleApplication1\Debug\ConsoleApplication1.pdb
